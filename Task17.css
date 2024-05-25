@@ -1,0 +1,664 @@
+#nav {
+  position: relative;
+  position: fixed;
+  width: 100%;
+  height: 70px;
+}
+
+#dashlogo img {
+  position: absolute;
+  width: 1.875rem;
+  height: 1.875rem;
+  left: 10px;
+  top: 20px;
+}
+
+#logotext h2 {
+  position: absolute;
+  left: 50px;
+  top: 5px;
+}
+
+.button {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+
+#signin {
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#signup {
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: white;
+  margin-right: 0.625rem;
+}
+
+.herosection {
+  background-image: url("./Images/SAVE_20240221_144711.jpg");
+  width: auto;
+  height: 43.75rem;
+}
+
+#headingtext h2 {
+  position: absolute;
+  top: 150px;
+  left: 18.75rem;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+#addressfield {
+  position: absolute;
+  left: 550px;
+  top: 280px;
+}
+
+#adddress {
+  padding: 1.25rem 9.375rem 1.25rem 0.9375rem;
+  border: 0;
+  border-radius: 5rem;
+}
+
+#sinfield {
+  position: absolute;
+  left: 580px;
+  top: 350px;
+}
+
+#Sin {
+  padding: 0.625rem 5rem 0.625rem 0.625rem;
+  border: 0;
+  border-radius: 5rem;
+}
+
+#dashersec {
+  position: relative;
+  left: 200px;
+  top: 150px;
+}
+#bdasherb a {
+  position: absolute;
+  color: #ca0000;
+  text-decoration: none;
+}
+
+#Psec {
+  position: relative;
+  left: 600px;
+  top: -160px;
+}
+#bpartnerb a {
+  position: absolute;
+  color: #ca0000;
+  text-decoration: none;
+}
+
+#experience {
+  position: relative;
+  left: 1000px;
+  top: -460px;
+}
+#dexperienceb a {
+  position: absolute;
+  color: #ca0000;
+  text-decoration: none;
+}
+
+#iphone img {
+  width: 10.625rem;
+  height: 10.625rem;
+}
+
+#subsec4 {
+  position: relative;
+  width: 100%;
+  height: 25rem;
+}
+
+#Dimg img {
+  position: absolute;
+  left: 200px;
+  bottom: 200px;
+  width: 43.75rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#Everything {
+  position: absolute;
+  left: 1000px;
+  bottom: 500px;
+}
+#Everything h1 {
+  font-size: 2.5rem;
+}
+
+#fav {
+  position: absolute;
+  left: 1000px;
+  bottom: 470px;
+  font-size: 1.25rem;
+}
+
+#pizza {
+  position: absolute;
+  left: 1000px;
+  bottom: 420px;
+  font-size: 0.875rem;
+}
+
+#findbutton button {
+  position: absolute;
+  left: 1000px;
+  bottom: 370px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#dashpass {
+  position: relative;
+  bottom: 70px;
+  width: 100%;
+  height: 37.5rem;
+  background-color: #fff1f5;
+}
+
+#dashimg img {
+  position: absolute;
+  top: 65px;
+  left: 200px;
+  width: 43.75rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#dtext {
+  position: absolute;
+  left: 1000px;
+  top: 100px;
+}
+#dtext h1 {
+  font-size: 2.5rem;
+}
+
+#dtextp {
+  position: absolute;
+  left: 1000px;
+  top: 230px;
+  font-size: 0.875rem;
+}
+
+#dtextb button {
+  position: absolute;
+  left: 1000px;
+  top: 320px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+.section6 {
+  position: relative;
+  background-image: url("./Images/second\ bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 93.75rem;
+}
+
+#grocery {
+  width: 125rem;
+  height: 43.75rem;
+}
+
+#gstore {
+  position: absolute;
+  top: 100px;
+  left: 440px;
+  text-align: center;
+  font-size: 1.875rem;
+}
+
+#gdtext {
+  position: absolute;
+  top: 230px;
+  left: 490px;
+  font-size: 1.25rem;
+}
+
+#gdtextp {
+  position: absolute;
+  top: 280px;
+  left: 490px;
+  font-size: 0.875rem;
+  text-align: center;
+}
+
+#gdtextb button {
+  position: absolute;
+  left: 640px;
+  top: 350px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#convenience {
+  position: relative;
+  width: 100%;
+  height: 25rem;
+}
+
+#desktop img {
+  position: absolute;
+  right: 80px;
+  top: 98px;
+  width: 37.5rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#doorstep {
+  position: absolute;
+  top: 130px;
+  left: 200px;
+  font-size: 1.875rem;
+}
+
+#step p {
+  position: absolute;
+  top: 280px;
+  left: 200px;
+  font-size: 0.875rem;
+}
+
+#stepb button {
+  position: absolute;
+  left: 200px;
+  top: 350px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#subsec8 {
+  position: relative;
+  top: 200px;
+  bottom: 70px;
+  width: 100%;
+  height: 100rem;
+  background-color: #e8bfcb;
+}
+
+#subh1 {
+  position: absolute;
+  left: 400px;
+  text-align: center;
+  font-size: 1.875rem;
+}
+
+#pickup {
+  position: relative;
+}
+
+#pickupimg img {
+  position: absolute;
+  left: 100px;
+  top: 190px;
+  width: 31.25rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#picktext {
+  position: absolute;
+  left: 100px;
+  top: 630px;
+  font-size: 1.25rem;
+  text-align: left;
+}
+
+#pickp {
+  position: relative;
+  left: 100px;
+  top: 690px;
+}
+
+#pickb button {
+  position: absolute;
+  left: 100px;
+  top: 750px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#flowers {
+  position: relative;
+  left: 800px;
+  top: 100px;
+}
+
+#flowerimg img {
+  position: absolute;
+  top: 20px;
+  width: 31.25rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#ftext {
+  position: absolute;
+  top: 450px;
+  font-size: 1.25rem;
+}
+
+#fpara {
+  position: absolute;
+  top: 500px;
+}
+
+#fbut button {
+  position: absolute;
+  top: 570px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#alcohol {
+  position: relative;
+  left: 100px;
+  top: 800px;
+}
+
+#aldesk img {
+  position: absolute;
+  top: 20px;
+  width: 31.25rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#altext {
+  position: absolute;
+  top: 450px;
+  font-size: 1.25rem;
+}
+
+#alp {
+  position: absolute;
+  top: 500px;
+}
+
+#alb button {
+  position: absolute;
+  top: 570px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#pets {
+  position: relative;
+  left: 800px;
+  top: 800px;
+}
+
+#petimg img {
+  position: absolute;
+  top: 20px;
+  width: 31.25rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#pettext {
+  position: absolute;
+  top: 450px;
+  font-size: 1.25rem;
+}
+
+#pett {
+  position: absolute;
+  top: 500px;
+}
+
+#petb button {
+  position: absolute;
+  top: 570px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#dasherman {
+  position: relative;
+  top: 200px;
+}
+
+#dmanimg img {
+  position: absolute;
+  right: 100px;
+  top: 90px;
+  width: 37.5rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#dmant {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  font-size: 1.875rem;
+}
+
+#dmanp p {
+  position: absolute;
+  top: 240px;
+  left: 100px;
+  font-size: 0.875rem;
+}
+
+#dmanb button {
+  position: absolute;
+  left: 100px;
+  top: 320px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#images {
+  position: relative;
+  top: 1500px;
+}
+
+#imgimg img {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+  width: 37.5rem;
+  height: auto;
+  border-radius: 0.625rem;
+}
+
+#imgt {
+  position: absolute;
+  left: 800px;
+  bottom: 490px;
+  font-size: 1.875rem;
+}
+
+#imgp {
+  position: absolute;
+  left: 800px;
+  bottom: 450px;
+  font-size: 0.875rem;
+}
+
+#imgb button {
+  position: absolute;
+  left: 800px;
+  bottom: 410px;
+  font-size: 0.875rem;
+  padding: 0.75rem 1.125rem 0.75rem 1.125rem;
+  margin-right: 0.3125rem;
+  border: 0;
+  border-radius: 3.125rem;
+  background-color: #ca0000;
+  color: white;
+}
+
+#footer {
+  position: relative;
+  top: 1200px;
+  right: 200px;
+  width: auto;
+  height: 37.5rem;
+}
+
+#fheading {
+  position: absolute;
+  top: 20px;
+  left: 520px;
+  text-align: center;
+  font-size: 1.875rem;
+}
+
+#table {
+  position: absolute;
+  width: 1000px;
+  top: 200px;
+  left: 500px;
+}
+
+th {
+  text-align: left;
+  padding-bottom: 1.875rem;
+}
+
+td {
+  text-align: left;
+  padding: 0.5rem;
+}
+
+.section12 {
+  position: relative;
+  top: 1100px;
+  background-color: black;
+  width: 93.75rem;
+  height: 56.25rem;
+}
+
+#sec12 {
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+
+#sec12 p {
+  color: white;
+  font-size: 0.875rem;
+}
+
+#sec12a {
+  position: absolute;
+}
+
+#sec12b {
+  position: absolute;
+  left: 350px;
+}
+
+#sec12c {
+  position: absolute;
+  left: 750px;
+}
+
+#sec12d {
+  position: absolute;
+  left: 1080px;
+}
+
+#sec12e {
+  position: absolute;
+  top: 200px;
+}
+
+#sec12f {
+  position: absolute;
+  top: 200px;
+  left: 350px;
+}
+
+#sec12g {
+  position: absolute;
+  top: 200px;
+  left: 750px;
+}
+
+#sec12h {
+  position: absolute;
+  top: 700px;
+}
+
+#dashlogo2 img {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: 10px;
+  top: 20px;
+}
+
+#logotext2 h2 {
+  position: absolute;
+  left: 50px;
+  top: 5px;
+  color: white;
+}
